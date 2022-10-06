@@ -1,0 +1,11 @@
+.number-systems{
+    width: 100%;
+    text-align: center;
+}
+#generate-binary, #generate-decimal, #generate-hexadecimal{
+    width: 20%;
+    padding: .4rem;
+    font-size: 1rem;
+    background: none;
+    cursor: pointer;
+}
